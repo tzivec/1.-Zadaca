@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_1.Zadaca</name>
+    </assembly>
+    <members>
+        <member name="P:_1.Zadaca.GenericsList`1.Count">
+            <summary>
+            Readonly property.Gets the number of items contained in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.Add(`0)">
+            <summary>
+            Adds an item to the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.Clear">
+            <summary>
+            Removes all items from the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.Contains(`0)">
+            <summary>
+            Determines whether the collection contains a specific value.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.GetElement(System.Int32)">
+            <summary>
+            Returns the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.IndexOf(`0)">
+            <summary>
+            Returns the index of the item in the collection.
+            If item is not found in the collection, method returns -1.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.Remove(`0)">
+            <summary>
+            Removes the first occurrence of an item from the collection.
+            If the item was not found, method does nothing.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.GenericsList`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="T:_1.Zadaca.IGenericList`1">
+            <summary>
+            </summary>
+            <typeparam name="X"></typeparam>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.Add(`0)">
+            <summary>
+            Adds an item to the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.Remove(`0)">
+            <summary>
+            Removes the first occurrence of an item from the collection.
+            If the item was not found, method does nothing.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.GetElement(System.Int32)">
+            <summary>
+            Returns the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.IndexOf(`0)">
+            <summary>
+            Returns the index of the item in the collection.
+            If item is not found in the collection, method returns -1.
+            </summary>
+        </member>
+        <member name="P:_1.Zadaca.IGenericList`1.Count">
+            <summary>
+            Readonly property.Gets the number of items contained in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.Clear">
+            <summary>
+            Removes all items from the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IGenericList`1.Contains(`0)">
+            <summary>
+            Determines whether the collection contains a specific value.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.Add(System.Int32)">
+            <summary>
+            Adds an item to the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.Remove(System.Int32)">
+            <summary>
+            Removes the first occurrence of an item from the collection.
+            If the item was not found, method does nothing.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.GetElement(System.Int32)">
+            <summary>
+            Returns the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.IndexOf(System.Int32)">
+            <summary>
+            Returns the index of the item in the collection.
+            If item is not found in the collection, method returns -1.
+            </summary>
+        </member>
+        <member name="P:_1.Zadaca.IIntegerList.Count">
+            <summary>
+            Readonly property.Gets the number of items contained in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.Clear">
+            <summary>
+            Removes all items from the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IIntegerList.Contains(System.Int32)">
+            <summary>
+            Determines whether the collection contains a specific value.
+            </summary>
+        </member>
+        <member name="T:_1.Zadaca.IntegerList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.#ctor(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="initialSize"></param>
+        </member>
+        <member name="P:_1.Zadaca.IntegerList.Count">
+            <summary>
+            Readonly property.Gets the number of items contained in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.Add(System.Int32)">
+            <summary>
+            Adds an item to the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.Clear">
+            <summary>
+            Removes all items from the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.Contains(System.Int32)">
+            <summary>
+            Determines whether the collection contains a specific value.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.GetElement(System.Int32)">
+            <summary>
+            Returns the item at the given index in the collection.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.IndexOf(System.Int32)">
+            <summary>
+            Returns the index of the item in the collection.
+            If item is not found in the collection, method returns -1.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.Remove(System.Int32)">
+            <summary>
+            Removes the first occurrence of an item from the collection.
+            If the item was not found, method does nothing.
+            </summary>
+        </member>
+        <member name="M:_1.Zadaca.IntegerList.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at the given index in the collection.
+            </summary>
+        </member>
+    </members>
+</doc>

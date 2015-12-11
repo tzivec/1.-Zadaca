@@ -1,0 +1,7 @@
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.exe.config
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.XML
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.exe
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.pdb
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\obj\Debug\_1.Zadaca.exe
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\obj\Debug\_1.Zadaca.pdb
+C:\Users\Tomislav\Desktop\FER\5.semestar\Razvoj aplikacija u programskom jeziku C#\1.zadaca\1. Zadaca\1. Zadaca\obj\Debug\1. Zadaca.csprojResolveAssemblyReference.cache
